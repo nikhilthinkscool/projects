@@ -1,2 +1,2 @@
-seconds=42*60
+seconds=42*60+60
 print seconds
